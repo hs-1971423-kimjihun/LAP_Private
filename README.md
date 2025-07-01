@@ -9,7 +9,7 @@
 - pnpm으로 설치를 권장합니다.
 
 ```bash
-npm install --legacy-peer-deps
+pnpm install
 ```
 
 ### Start the Development Server
